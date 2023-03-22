@@ -41,7 +41,6 @@ html {
     font-size: var(--FF-PSIZE);
 }
 
-
 body {
     min-height: 100vh;
     background-color: var(--BODY-COLOR);
@@ -61,12 +60,12 @@ p {
     padding: 1rem;
 }
 
-.main__qr img{
+.main__img{
     width: 290px;
     border-radius: 5%;
 }
 
-.main__qr figcaption {
+.main__cap {
     display: none;
 }
 
